@@ -1,0 +1,28 @@
+# Core dependencies for deep image compression
+tensorflow>=2.10.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+scikit-learn>=1.1.0
+tqdm>=4.64.0
+
+# Streamlit web application
+streamlit>=1.28.0
+
+# Image processing
+Pillow>=9.0.0
+
+# Interactive visualizations
+plotly>=5.0.0
+
+# Data manipulation
+pandas>=1.4.0
+
+# Additional utilities (optional but used in original code)
+scipy>=1.8.0
+psutil>=5.9.0
+
+# For better performance (optional)
+tensorflow
+
+pip install tensorflow
