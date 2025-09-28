@@ -1,5 +1,5 @@
 # Core dependencies for deep image compression
-tensorflow>=2.10.0
+tensorflow-cpu==2.10.0
 numpy>=1.21.0
 matplotlib>=3.5.0
 seaborn>=0.11.0
@@ -18,16 +18,6 @@ plotly>=5.0.0
 # Data manipulation
 pandas>=1.4.0
 
-# Additional utilities (optional but used in original code)
+# Additional utilities
 scipy>=1.8.0
 psutil>=5.9.0
-
-# For better performance (optional)
-tensorflow
-streamlit
-tensorflow
-numpy
-pandas
-matplotlib
-
-pip install tensorflow
