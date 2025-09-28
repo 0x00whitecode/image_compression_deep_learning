@@ -24,5 +24,10 @@ psutil>=5.9.0
 
 # For better performance (optional)
 tensorflow
+streamlit
+tensorflow
+numpy
+pandas
+matplotlib
 
 pip install tensorflow
